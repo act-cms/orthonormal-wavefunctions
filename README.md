@@ -1,24 +1,22 @@
-Lesson/Module Title
+Orthonormal Wavefunctions
 ===================
 
-Write a short description (2-3 sentences) of your lesson here. The `main`
-branch of your lesson repository is the most public-facing branch, which will
-primarily be accessed by prospective adopting instructors as they explore the
-open educational resources (OER) available on the ACT-CMS portal. Minimally,
-you should address the lesson's purpose, intended audience (course & student
-level), and time required.
+In this lesson, students will explore orthogonality by calculating integrals 
+and plotting the product of orthogonal functions. Students will also normalize 
+a set of orthogonal functions and then use that set to create a superposition 
+wavefunction, compare "good" and "bad" superposition wavefunctions, 
+and normalize the "bad" wavefunction. Students visualize and interpret how 
+coefficients and normalization constants scale the wavefunction amplitude. 
+This activity is useful in a Physical Chemistry - Quantum course. 
+It was piloted over two 75-minute class sessions.
 
 ## Lesson/Module Contents
 
 Provide a brief overview of the structure of your module or lesson as an
 enumerated list below:
 
-1. Title of first lesson in module
-    * Directory: `01_first-lesson`
-    * Description: Extremely brief description of lesson content
-    * Time: 2-3 hours
-2. Title of second lesson in module (if present)
-    * Directory: `02_second-lesson`
-    * Description: Extremely brief description of lesson content
+1. Orthonormal Wavefunctions
+    * Directory: `01-orthonormal-wavefunctions`
+    * Description: Exploration of orthonormality and completeness
     * Time: 2-3 hours
 
